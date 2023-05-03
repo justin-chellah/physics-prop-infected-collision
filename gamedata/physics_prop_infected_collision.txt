@@ -1,0 +1,26 @@
+"Games"
+{
+	"left4dead"
+	{
+		"Offsets"
+		{
+			"CBaseEntity::PhysicsSolidMaskForEntity"
+			{
+				"windows"	"163"
+				"linux"		"164"
+			}
+		}
+	}
+
+	"left4dead2"
+	{
+		"Offsets"
+		{
+			"CBaseEntity::PhysicsSolidMaskForEntity"
+			{
+				"windows"	"177"
+				"linux"		"178"
+			}
+		}
+	}
+}
